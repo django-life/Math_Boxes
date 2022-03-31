@@ -8,6 +8,6 @@ def subtract(x, y):
 def multiply(x, y):
     return x * y
 
-def divide(x, y):
+def free(x, y):
     return x / y
 # 수정됨
