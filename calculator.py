@@ -8,6 +8,6 @@ def subtract(x, y):
 def multiply(x, y):
     return x * y
 
-def divide_premiun(x, y):
-    return x / y
+def divide_new(a,b):
+    return a / b
 # 수정됨
