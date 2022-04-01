@@ -10,4 +10,5 @@ def multiply(x, y):
 
 def free(x, y):
     return x / y
-# 수정됨
+def square(a)
+    return a*a
