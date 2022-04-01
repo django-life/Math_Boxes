@@ -10,6 +10,3 @@ def multiply(x, y):
 
 def divide_new(a,b):
     return a / b
-# 수정됨
-def say_hello():
-    print("hello")
